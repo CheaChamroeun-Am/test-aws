@@ -3,7 +3,7 @@ import Image from 'next/image'
 export default function Home() {
   return (
     <div>
-      Hello World
+      Hello World this is a Next.js app wow
     </div>
   )
 }
